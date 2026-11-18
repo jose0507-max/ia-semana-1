@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100%;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
+
+.link{
+    color: gray;
+    font-size: 12px;
+        text-decoration: none;
+        text-align: center;
+
+}
+.asistente{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
